@@ -1,3 +1,0 @@
-C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Source\Teste\Teste.Build.cs
-C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Source\Teste.Target.cs
-C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Source\TesteEditor.Target.cs

@@ -1,0 +1,3 @@
+C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Source\Project420J12AS\Project420J12AS.Build.cs
+C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Source\Project420J12AS.Target.cs
+C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Source\Project420J12ASEditor.Target.cs

@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Project420J12AS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\Project420J12ASEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\UE4Editor\Development\Project420J12AS\Project420J12AS.cpp.obj"
+"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\UE4Editor\Development\Project420J12AS\Project420J12ASGameMode.cpp.obj"
+"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\UE4Editor\Development\Project420J12AS\Project420J12ASPawn.cpp.obj"
+"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\UE4Editor\Development\Project420J12AS\Project420J12ASProjectile.cpp.obj"
+"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\UE4Editor\Development\Project420J12AS\Project420J12AS.init.gen.cpp.obj"
+"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\UE4Editor\Development\Project420J12AS\Project420J12ASGameMode.gen.cpp.obj"
+"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\UE4Editor\Development\Project420J12AS\Project420J12ASPawn.gen.cpp.obj"
+"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\UE4Editor\Development\Project420J12AS\Project420J12ASProjectile.gen.cpp.obj"
+"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\UE4Editor\Development\Project420J12AS\Default.rc2.res"
+/OUT:"C:\Users\sttau\OneDrive\Área de Trabalho\Project420-J12-AS\Project420J12AS\Intermediate\Build\Win64\UE4Editor\Development\Project420J12AS\UE4Editor-Project420J12AS.lib"
+/INCLUDE:IMPLEMENT_MODULE_Project420J12AS

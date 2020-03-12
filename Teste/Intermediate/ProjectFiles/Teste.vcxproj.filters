@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Teste.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1F926710-355D-40B6-858B-9F505A71160C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Teste.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TesteEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7ECEE302-82D7-49DE-B836-460B12B51B02}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Teste">
+      <UniqueIdentifier>{FB310580-16EB-4DDC-9C88-E3CF0F932919}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Teste\Teste.Build.cs">
+      <Filter>Source\Teste</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Teste\Teste.cpp">
+      <Filter>Source\Teste</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Teste\Teste.h">
+      <Filter>Source\Teste</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Teste\TesteGameMode.cpp">
+      <Filter>Source\Teste</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Teste\TesteGameMode.h">
+      <Filter>Source\Teste</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Teste\TestePawn.cpp">
+      <Filter>Source\Teste</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Teste\TestePawn.h">
+      <Filter>Source\Teste</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Teste\TesteProjectile.cpp">
+      <Filter>Source\Teste</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Teste\TesteProjectile.h">
+      <Filter>Source\Teste</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

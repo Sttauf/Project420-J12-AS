@@ -1,0 +1,2 @@
+C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\Definitions.Teste.h
+c:\users\sttau\onedrive\documentos\unreal projects\teste\source\teste\Teste.h

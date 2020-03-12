@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Teste-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\TesteEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\Teste.cpp.obj"
+"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\TesteGameMode.cpp.obj"
+"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\TestePawn.cpp.obj"
+"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\TesteProjectile.cpp.obj"
+"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\Teste.init.gen.cpp.obj"
+"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\TesteGameMode.gen.cpp.obj"
+"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\TestePawn.gen.cpp.obj"
+"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\TesteProjectile.gen.cpp.obj"
+"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\Default.rc2.res"
+/OUT:"C:\Users\sttau\OneDrive\Documentos\Unreal Projects\Teste\Intermediate\Build\Win64\UE4Editor\Development\Teste\UE4Editor-Teste-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_Teste
